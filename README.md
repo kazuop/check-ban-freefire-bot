@@ -71,7 +71,7 @@ A Discord bot to check if a Free Fire account is banned, using a user ID. Also i
  
 </div>
 
-> 🎥 The Git in this demo was provided by [NinjaHex]() – 
+> 🎥 The Git in this demo was provided by [KAZU CHEATS]() – 
 
 
 ## Usage
